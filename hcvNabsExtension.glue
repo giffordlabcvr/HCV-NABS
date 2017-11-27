@@ -1,0 +1,18 @@
+project hcv
+  run file glue/hcvNabsDeleteModules.glue
+  exit
+
+schema-project hcv
+  run file glue/hcvNabsDeleteSchemaExtensions.glue
+  exit
+
+schema-project hcv
+  run file glue/hcvNabsSchemaExtensions.glue
+  exit
+  
+project hcv
+  run file glue/hcvNabsModules.glue
+
+
+  exit
+  
