@@ -1,0 +1,3 @@
+create module --fileName modules/hcvNabsTabularUtility.xml
+
+create module --fileName modules/hcvNabsAnalyseBindingResidues.xml --loadResources
