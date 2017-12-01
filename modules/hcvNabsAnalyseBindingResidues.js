@@ -13,16 +13,19 @@ function analyse() {
 				                                {convertTableToObjects:true});
 			});
 			glue.inMode("reference/REF_MASTER_NC_004102/feature-location/BR"+br_location_id, function() {
-				var brVariationNames = tableResultGetColumn(glue.command(["list", "variation", "--whereClause", "name like 'BR%'"], "name"));
+				var brVariationNames = tableResultGetColumn(glue.command(["list", "variation", "--whereClause", "name like 'BR%'"]), "name");
 				_.each(freqResults, function(freqResult) {
 					var variationName = "BR_"+freqResult.aminoAcid;
 					if(brVariationNames.indexOf(variationName) < 0) {
 						glue.command(["create", "variation", variationName, "--translationType", "AMINO_ACID",
 						              "Occurance of "+freqResult.aminoAcid+" at binding residue "+br_location_id]);
+						glue.inMode("variation/"+variationName, function() {
+							glue.command(["set", "field", "hcv_nabs_amino_acid", freqResult.aminoAcid]);
+							glue.command(["create", "pattern-location", freqResult.aminoAcid, "--labeledCodon", br_location_id,br_location_id]);
+
+						});
 					}
 					glue.inMode("variation/"+variationName, function() {
-						glue.command(["set", "field", "hcv_nabs_amino_acid", freqResult.aminoAcid]);
-						glue.command(["create", "pattern-location", freqResult.aminoAcid, "--labeledCodon", br_location_id,br_location_id]);
 						glue.command(["create", "var-almt-note", clade]);
 						glue.inMode("var-almt-note/"+clade, function() {
 							glue.command(["set", "field", "hcv_nabs_frequency", freqResult.pctMembers]);
