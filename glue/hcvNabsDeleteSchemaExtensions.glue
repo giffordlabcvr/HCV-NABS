@@ -1,0 +1,13 @@
+delete custom-table antibody
+delete custom-table br_location   
+delete custom-table antibody_br_loc
+
+table var_almt_note
+    delete field hcv_nabs_frequency
+    delete field hcv_nabs_number
+    exit
+    
+table variation
+	delete field hcv_nabs_amino_acid
+	exit
+    

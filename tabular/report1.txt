@@ -1,0 +1,184 @@
+Binding residue location 201
+Neutralizing antibodies: AR4A, AR5A
+HCV Subtype 4d:	Y 99.23% (n=129)	C 0.77% (n=1)
+
+Binding residue location 204
+Neutralizing antibodies: AR4A, AR5A
+HCV Subtype 4d:	T 100.00% (n=130)
+
+Binding residue location 205
+Neutralizing antibodies: AR4A, AR5A
+HCV Subtype 4d:	N 100.00% (n=130)
+
+Binding residue location 206
+Neutralizing antibodies: AR4A, AR5A
+HCV Subtype 4d:	D 100.00% (n=130)
+
+Binding residue location 403
+Neutralizing antibodies: J6.36
+HCV Subtype 4d:	F 98.71% (n=534)	L 1.29% (n=7)
+
+Binding residue location 406
+Neutralizing antibodies: H77.16, J6.36
+HCV Subtype 4d:	G 100.00% (n=542)
+
+Binding residue location 408
+Neutralizing antibodies: HC33.29, HC33.4, HC33.8
+HCV Subtype 4d:	Q 68.63% (n=372)	R 16.79% (n=91)	K 14.21% (n=77)	H 0.18% (n=1)	S 0.18% (n=1)
+
+Binding residue location 410
+Neutralizing antibodies: H77.16
+HCV Subtype 4d:	N 98.89% (n=536)	K 0.37% (n=2)	E 0.37% (n=2)	D 0.18% (n=1)	H 0.18% (n=1)
+
+Binding residue location 411
+Neutralizing antibodies: H77.16
+HCV Subtype 4d:	V 61.62% (n=334)	L 20.48% (n=111)	I 17.71% (n=96)	M 0.18% (n=1)
+
+Binding residue location 413
+Neutralizing antibodies: 95-2, AP33, HC33.1, HC33.29, HC33.32, HC33.4, HC33.8, HCV1, Hu5B3.v3
+HCV Subtype 4d:	L 100.00% (n=542)
+
+Binding residue location 415
+Neutralizing antibodies: 3/11, AP33, H77.39
+HCV Subtype 4d:	N 93.91% (n=509)	H 2.58% (n=14)	S 2.03% (n=11)	D 0.74% (n=4)	Y 0.37% (n=2)	K 0.37% (n=2)
+
+Binding residue location 416
+Neutralizing antibodies: Mab24
+HCV Subtype 4d:	T 99.82% (n=541)	S 0.18% (n=1)
+
+Binding residue location 417
+Neutralizing antibodies: H77.39, Hu5B3.v3
+HCV Subtype 4d:	N 99.45% (n=539)	G 0.55% (n=3)
+
+Binding residue location 418
+Neutralizing antibodies: AP33, HC33.1, HC33.29, HC33.32, HC33.8, Mab24
+HCV Subtype 4d:	G 99.82% (n=541)	E 0.18% (n=1)
+
+Binding residue location 420
+Neutralizing antibodies: 3/11, 95-2, AP33, HC33.1, HC33.29, HC33.32, HC33.4, HC33.8, HC84.21, HC84.22, HCV1, Hu5B3.v3, Mab24
+HCV Subtype 4d:	W 100.00% (n=542)
+
+Binding residue location 421
+Neutralizing antibodies: 3/11, Mab24
+HCV Subtype 4d:	H 100.00% (n=542)
+
+Binding residue location 422
+Neutralizing antibodies: Hu5B3.v3
+HCV Subtype 4d:	I 100.00% (n=542)
+
+Binding residue location 424
+Neutralizing antibodies: AR3A, AR3B, AR3C, AR3D
+HCV Subtype 4d:	R 99.63% (n=540)	S 0.37% (n=2)
+
+Binding residue location 425
+Neutralizing antibodies: HC-11, HC-1
+HCV Subtype 4d:	T 99.82% (n=541)	I 0.18% (n=1)
+
+Binding residue location 426
+Neutralizing antibodies: HC-11
+HCV Subtype 4d:	A 100.00% (n=542)
+
+Binding residue location 428
+Neutralizing antibodies: HC-1, HC84.21, HC84.22
+HCV Subtype 4d:	N 100.00% (n=542)
+
+Binding residue location 431
+Neutralizing antibodies: HC-11
+HCV Subtype 4d:	D 100.00% (n=542)
+
+Binding residue location 436
+Neutralizing antibodies: HC-1
+HCV Subtype 4d:	G 100.00% (n=542)
+
+Binding residue location 437
+Neutralizing antibodies: CBH-2, HC-11, HC84.21, HC84.22, mAb#8
+HCV Subtype 4d:	F 99.82% (n=541)	L 0.18% (n=1)
+
+Binding residue location 438
+Neutralizing antibodies: HC-11, mAb#8
+HCV Subtype 4d:	I 68.08% (n=369)	L 31.37% (n=170)	F 0.55% (n=3)
+
+Binding residue location 439
+Neutralizing antibodies: CBH-2
+HCV Subtype 4d:	A 99.45% (n=539)	V 0.37% (n=2)	T 0.18% (n=1)
+
+Binding residue location 441
+Neutralizing antibodies: HC84.1, HC84.20, HC84.21, HC84.22, HC84.25, HC84.26, mAb#8
+HCV Subtype 4d:	L 100.00% (n=542)
+
+Binding residue location 442
+Neutralizing antibodies: HC-11, HC84.1, HC84.20, HC84.21, HC84.22, HC84.24, HC84.25, HC84.26, mAb#8
+HCV Subtype 4d:	F 97.23% (n=527)	L 2.77% (n=15)
+
+Binding residue location 443
+Neutralizing antibodies: HC-11, HC84.20, HC84.21, HC84.22, HC84.24
+HCV Subtype 4d:	Y 99.82% (n=541)	R 0.18% (n=1)
+
+Binding residue location 523
+Neutralizing antibodies: 1:7, A8, AR3A, MAb44
+HCV Subtype 4d:	G 100.00% (n=13)
+
+Binding residue location 524
+Neutralizing antibodies: J6.27
+HCV Subtype 4d:	A 76.92% (n=10)	V 23.08% (n=3)
+
+Binding residue location 525
+Neutralizing antibodies: AR3A, AR3C, MAb44
+HCV Subtype 4d:	P 100.00% (n=13)
+
+Binding residue location 526
+Neutralizing antibodies: 1:7, A8
+HCV Subtype 4d:	T 100.00% (n=13)
+
+Binding residue location 527
+Neutralizing antibodies: 1:7, A8
+HCV Subtype 4d:	Y 100.00% (n=13)
+
+Binding residue location 529
+Neutralizing antibodies: 1:7, A8, H77.31, HC-1, J6.27
+HCV Subtype 4d:	W 100.00% (n=13)
+
+Binding residue location 530
+Neutralizing antibodies: 1:7, A8, AR3A, AR3B, AR3C, AR3D, CBH-2, H77.31, HC-11, HC-1
+HCV Subtype 4d:	G 100.00% (n=13)
+
+Binding residue location 533
+Neutralizing antibodies: H77.31
+HCV Subtype 4d:	E 100.00% (n=13)
+
+Binding residue location 535
+Neutralizing antibodies: 1:7, A8, AR3A, AR3B, AR3C, CBH-2, HC-11, HC-1
+HCV Subtype 4d:	D 100.00% (n=13)
+
+Binding residue location 540
+Neutralizing antibodies: AR3A, AR3C, MAb44
+HCV Subtype 4d:	N 100.00% (n=13)
+
+Binding residue location 549
+Neutralizing antibodies: MAb44
+HCV Subtype 4d:	W 100.00% (n=13)
+
+Binding residue location 613
+Neutralizing antibodies: HC84.20, MAb44
+HCV Subtype 4d:	Y 100.00% (n=13)
+
+Binding residue location 616
+Neutralizing antibodies: HC84.20, HC84.22, HC84.25, HC84.26
+HCV Subtype 4d:	W 100.00% (n=13)
+
+Binding residue location 639
+Neutralizing antibodies: AR5A
+HCV Subtype 4d:	R 100.00% (n=13)
+
+Binding residue location 657
+Neutralizing antibodies: AR4A, AR5A
+HCV Subtype 4d:	R 100.00% (n=13)
+
+Binding residue location 692
+Neutralizing antibodies: AR4A
+HCV Subtype 4d:	L 100.00% (n=13)
+
+Binding residue location 698
+Neutralizing antibodies: AR4A
+HCV Subtype 4d:	D 100.00% (n=13)
+

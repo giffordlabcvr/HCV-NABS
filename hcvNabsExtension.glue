@@ -1,5 +1,8 @@
 project hcv
   run file glue/hcvNabsDeleteModules.glue
+  multi-delete feature_location --whereClause "feature.name like 'BR%'"
+  multi-delete feature --whereClause "name like 'BR%'"
+  multi-delete variation --whereClause "name like 'BR%'"
   exit
 
 schema-project hcv

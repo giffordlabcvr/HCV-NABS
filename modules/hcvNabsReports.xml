@@ -1,7 +1,7 @@
 <ecmaFunctionInvoker>
 	<scriptFileName>hcvNabsClades.js</scriptFileName>
-	<scriptFileName>hcvNabsAnalyseBindingResidues.js</scriptFileName>
+	<scriptFileName>hcvNabsReports.js</scriptFileName>
 	<function>
-		<name>analyse</name>
+		<name>report1</name>
 	</function>
 </ecmaFunctionInvoker>
