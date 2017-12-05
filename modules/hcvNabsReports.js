@@ -20,12 +20,12 @@ function report1() {
 		output.append("Binding residue location "+br_location_id+"\n");
 		glue.inMode("custom-table-row/br_location/"+br_location_id, function() {
 			var antibodies = tableResultGetColumn(glue.command("list link-target antibody_br_loc antibody.display_name"), "antibody.display_name");
-			output.append("Neutralizing antibodies: "+antibodies.join(", ")+"\n");
+			output.append("Neutralizing antibodies: "+antibodies.join(", "));
 		});
 		_.each(clades, function(clade) {
 			glue.inMode("alignment/"+clade, function() {
 				var cladeName = glue.command("show property displayName").propertyValueResult.value;
-				output.append(cladeName+":");
+				output.append("\n"+cladeName+":");
 			});
 			var noteWhereClause = "alignment.name = '"+clade+"' and variation.featureLoc.feature.name = 'BR"+br_location_id+"'";
 			var notes = glue.command(["list", "var-almt-note", 

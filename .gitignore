@@ -3,3 +3,4 @@
 /.gradle/
 .externalToolBuilders
 .settings
+sql_bin
