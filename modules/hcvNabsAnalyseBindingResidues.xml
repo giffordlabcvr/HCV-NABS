@@ -4,4 +4,10 @@
 	<function>
 		<name>analyse</name>
 	</function>
+	<function>
+		<name>analyseSingleBr</name>
+		<parameter>
+			<name>br_location_id</name>
+		</parameter>
+	</function>
 </ecmaFunctionInvoker>
