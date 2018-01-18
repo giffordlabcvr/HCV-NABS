@@ -5,3 +5,5 @@ create module --fileName modules/hcvNabsExtendModel.xml --loadResources
 create module --fileName modules/hcvNabsAnalyseBindingResidues.xml --loadResources
 
 create module --fileName modules/hcvNabsReports.xml --loadResources
+
+create module --fileName modules/hcvNabsAnalyseBindingRegions.xml --loadResources

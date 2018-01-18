@@ -1,0 +1,147 @@
+Region 200-207 (antibodies: AR4A), HCV Genotype 2:
+
+SYMVTNDC 43.10% (n=409)
+SYYATNDC 34.04% (n=323)
+GYMVTNDC 8.54% (n=81)
+IYMVTNDC 3.16% (n=30)
+SYMATNDC 2.85% (n=27)
+GYYATNDC 1.48% (n=14)
+TYMVTNDC 1.26% (n=12)
+TYMATNDC 0.95% (n=9)
+IYMATNDC 0.74% (n=7)
+--MVTNDC 0.53% (n=5)
+AYMVTNDC 0.42% (n=4)
+NYMVTNDC 0.32% (n=3)
+AYMATNDC 0.21% (n=2)
+IYYATNDC 0.21% (n=2)
+GYYTTNDC 0.21% (n=2)
+LYVATNDC 0.21% (n=2)
+LYMVTNDC 0.21% (n=2)
+SYMVANDC 0.11% (n=1)
+GYMLTNDC 0.11% (n=1)
+SYMLTNDC 0.11% (n=1)
+GYHATNDC 0.11% (n=1)
+--YATNDC 0.11% (n=1)
+SYYTTNDC 0.11% (n=1)
+LYMATNDC 0.11% (n=1)
+SYILTNDC 0.11% (n=1)
+SYMPTNDC 0.11% (n=1)
+LYIVTNDC 0.11% (n=1)
+LYTVTNDC 0.11% (n=1)
+LYIATNDC 0.11% (n=1)
+FYMATNDC 0.11% (n=1)
+IYQVTNDC 0.11% (n=1)
+MYQVTNDC 0.11% (n=1)
+
+Region 200-207 (antibodies: AR4A), HCV Subtype 3b:
+
+LYILTNDC 72.83% (n=319)
+LYVLTNDC 13.47% (n=59)
+LYMLTNDC 9.13% (n=40)
+LYLLTNDC 2.51% (n=11)
+LYTLTNDC 1.60% (n=7)
+QYMLTNDC 0.23% (n=1)
+LYVITNDC 0.23% (n=1)
+
+
+Region 656-658 (antibodies: AR4A), HCV Genotype 2:
+
+DRD 98.05% (n=452)
+HRD 1.08% (n=5)
+NRD 0.43% (n=2)
+QRD 0.22% (n=1)
+GQG 0.22% (n=1)
+
+Region 656-658 (antibodies: AR4A), HCV Subtype 3b:
+
+DRD 100.00% (n=160)
+
+
+Region 691-693 (antibodies: AR4A), HCV Genotype 2:
+
+HLH 100.00% (n=461)
+
+Region 691-693 (antibodies: AR4A), HCV Subtype 3b:
+
+HLH 98.75% (n=158)
+HLR 0.63% (n=1)
+HFH 0.63% (n=1)
+
+
+Region 697-699 (antibodies: AR4A), HCV Genotype 2:
+
+VDV 99.35% (n=458)
+ADV 0.22% (n=1)
+GNV 0.22% (n=1)
+VDT 0.22% (n=1)
+
+Region 697-699 (antibodies: AR4A), HCV Subtype 3b:
+
+VDV 98.13% (n=157)
+VGV 1.88% (n=3)
+
+
+Region 412-414 (antibodies: HCV1), HCV Genotype 2:
+
+QLI 66.50% (n=905)
+SLI 15.28% (n=208)
+NLI 8.23% (n=112)
+QLV 2.28% (n=31)
+TLI 1.40% (n=19)
+HLI 1.10% (n=15)
+DLI 1.10% (n=15)
+SLV 0.81% (n=11)
+YLI 0.51% (n=7)
+HLV 0.37% (n=5)
+MLI 0.29% (n=4)
+TLV 0.29% (n=4)
+RLI 0.22% (n=3)
+KLI 0.22% (n=3)
+NLV 0.22% (n=3)
+ALI 0.22% (n=3)
+QLT 0.15% (n=2)
+RLM 0.07% (n=1)
+ILV 0.07% (n=1)
+HLN 0.07% (n=1)
+TLN 0.07% (n=1)
+*LV 0.07% (n=1)
+WLI 0.07% (n=1)
+SLM 0.07% (n=1)
+ELV 0.07% (n=1)
+*LI 0.07% (n=1)
+RLV 0.07% (n=1)
+MLM 0.07% (n=1)
+
+Region 412-414 (antibodies: HCV1), HCV Subtype 3b:
+
+HLV 71.22% (n=287)
+QLV 24.07% (n=97)
+NLV 1.74% (n=7)
+RLV 0.99% (n=4)
+QLM 0.74% (n=3)
+HLI 0.25% (n=1)
+KLV 0.25% (n=1)
+DLV 0.25% (n=1)
+SLV 0.25% (n=1)
+QLT 0.25% (n=1)
+
+
+Region 419-421 (antibodies: HCV1), HCV Genotype 2:
+
+SWH 99.26% (n=1346)
+NWH 0.15% (n=2)
+SLH 0.15% (n=2)
+S*H 0.07% (n=1)
+SRH 0.07% (n=1)
+NLH 0.07% (n=1)
+SLD 0.07% (n=1)
+GW- 0.07% (n=1)
+TWH 0.07% (n=1)
+
+Region 419-421 (antibodies: HCV1), HCV Subtype 3b:
+
+SWH 99.51% (n=404)
+S-- 0.25% (n=1)
+SRH 0.25% (n=1)
+
+
