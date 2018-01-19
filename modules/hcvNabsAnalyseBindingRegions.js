@@ -24,7 +24,7 @@ function analyse() {
 				var refName = glue.command(["show", "reference"]).showReferenceResult.referenceName;
 				var cladeName = glue.command("show property displayName").propertyValueResult.value;
 				output.append("Region "+region.start+"-"+region.end);
-				output.append(" (antibodies: ["+region.antibodies.join(", ")+"] ), ");
+				output.append(" (antibodies: ["+region.antibodies.join(", ")+"]), ");
 				output.append(cladeName+":\n");
 				var aaStringObjs = glue.command(["amino-acid", "strings", "-c", "-w", "sequence.source.name = 'ncbi-curated'", 
 				              "-r", refName, "-f", "precursor_polyprotein", region.start, region.end], {convertTableToObjects:true});
