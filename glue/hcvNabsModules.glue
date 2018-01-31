@@ -7,3 +7,8 @@ create module --fileName modules/hcvNabsAnalyseBindingResidues.xml --loadResourc
 create module --fileName modules/hcvNabsReports.xml --loadResources
 
 create module --fileName modules/hcvNabsAnalyseBindingRegions.xml --loadResources
+
+create module --fileName modules/hcvNabsAnalyseBindingMotifs.xml --loadResources
+
+create module --fileName modules/hcvNabsGenerateBindingRegionColumnSelectors.xml --loadResources
+

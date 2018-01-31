@@ -4,7 +4,7 @@
 	HVR1	J6.36	Y	F403	G406								* 403 is L not F in H77	LTPGAKQNIQL		* 403 is L not F in H77					
 																					
 	Epitope 1	AP33	Y	L413	N415	G418	W420							QLINTNGSWHIN						structure	
-	Epitope 1	HCV1	Y	L413			W420							QLINTNGSWHIN						structure	
+	Epitope 1	HCV1	Y	L413	N415	G418	W420							QLINTNGSWHIN						structure	
 	Epitope 1	95-2	Y	L413			W420							QLINTNGSWHIN						alanine	
 	Epitope 1	3/11	Y	N415	W420	H421								QLINTNGSWHIN							
 	Epitope 1	Hu5B3.v3	Y	L413	N417	W420	I422							QLINTNGSWHIN							

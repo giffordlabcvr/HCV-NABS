@@ -6,6 +6,8 @@ table antibody
 	create field neutralizing BOOLEAN
 	# Antibody name may contain characters illegal in a GLUE object ID; original name recorded here.
 	create field display_name VARCHAR 20
+	# name of column selector module which selects specifically the binding regions.
+	create field col_selector_name VARCHAR 100
 	exit
 
 # binding residue locations are individual codon positions on the precursor polyprotein

@@ -16,6 +16,9 @@ schema-project hcv
 project hcv
   run file glue/hcvNabsModules.glue
 
+  module hcvNabsExtendModel invoke-function extendModel 
+
+  module hcvNabsGenerateBindingRegionColumnSelectors invoke-function generateSelectors
 
   exit
   
