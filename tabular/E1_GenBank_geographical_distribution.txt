@@ -1,0 +1,18 @@
+clade	Australia and New Zealand	Central Asia	Eastern Asia	Eastern Europe	Latin America and the Caribbean	Melanesia	Micronesia	Northern Africa	Northern America	Northern Europe	Polynesia	Southern Asia	Southern Europe	South-eastern Asia	Sub-Saharan Africa	Western Asia	Western Europe	No country specified	Total
+HCV Genotype 1	104	0	953	51	272	0	0	0	6766	396	0	11	1	28	6	2	426	1137	10153
+HCV Subtype 1a	96	0	47	13	271	0	0	0	5822	123	0	3	0	0	0	0	151	726	7252
+HCV Subtype 1b	8	0	905	38	1	0	0	0	928	270	0	6	0	28	0	1	274	406	2865
+HCV Genotype 2	6	0	269	0	2	0	0	0	148	18	0	0	2	0	1	0	25	124	595
+HCV Subtype 2a	0	0	185	0	0	0	0	0	2	2	0	0	0	0	0	0	6	48	243
+HCV Subtype 2b	5	0	82	0	0	0	0	0	130	4	0	0	0	0	0	0	7	55	283
+HCV Subtype 2c	1	0	0	0	0	0	0	0	1	11	0	0	0	0	0	0	2	9	24
+HCV Genotype 3	72	0	544	0	0	0	0	0	651	105	0	53	1	0	4	0	85	654	2169
+HCV Subtype 3a	72	0	274	0	0	0	0	0	642	102	0	50	1	0	0	0	85	614	1840
+HCV Subtype 3b	0	0	270	0	0	0	0	0	2	0	0	0	0	0	0	0	0	26	298
+HCV Genotype 4	0	0	2	0	0	0	0	53	98	19	0	1	3	0	3	247	18	26	470
+HCV Subtype 4a	0	0	1	0	0	0	0	46	72	0	0	0	0	0	0	134	7	8	268
+HCV Subtype 4d	0	0	1	0	0	0	0	0	3	1	0	1	0	0	0	108	8	3	125
+HCV Genotype 5	0	0	1	0	1	0	0	1	1	0	0	1	13	0	23	0	199	14	254
+HCV Genotype 6	2	0	442	0	0	0	0	0	37	0	0	1	0	109	0	0	1	26	618
+HCV Subtype 6a	2	0	264	0	0	0	0	0	12	0	0	0	0	18	0	0	0	22	318
+HCV Genotype 7	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	2

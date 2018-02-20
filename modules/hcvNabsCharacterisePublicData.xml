@@ -1,0 +1,11 @@
+<ecmaFunctionInvoker>
+  <scriptFileName>hcvNabsClades.js</scriptFileName>
+  <scriptFileName>hcvNabsCharacterisePublicData.js</scriptFileName>
+  <function>
+    <name>featureCoverageByRegionAndClade</name>
+    <parameter>
+    	<name>featureName</name>
+    </parameter>
+    <tableFromObjectsResultType/>
+  </function>
+</ecmaFunctionInvoker>
