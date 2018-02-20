@@ -2,6 +2,6 @@
 	<scriptFileName>hcvNabsClades.js</scriptFileName>
 	<scriptFileName>hcvNabsReports.js</scriptFileName>
 	<function>
-		<name>report1</name>
+		<name>bindingResiduesReport</name>
 	</function>
 </ecmaFunctionInvoker>

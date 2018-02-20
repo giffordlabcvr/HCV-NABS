@@ -10,7 +10,7 @@ StringBuffer.prototype.toString = function () {
     return this.__strings__.join("");
 };
  
-function report1() {
+function bindingResiduesReport() {
 
 	var br_locations = tableResultGetColumn(glue.command(["list", "custom-table-row", "br_location"]), "id");
 
@@ -28,10 +28,10 @@ function report1() {
 				output.append("\n"+cladeName+":");
 			});
 			var noteWhereClause = "alignment.name = '"+clade+"' and variation.featureLoc.feature.name = 'BR"+br_location_id+"'";
-			var notes = glue.command(["list", "var-almt-note", 
+			var notes = glue.tableToObjects(glue.command(["list", "var-almt-note", 
 			              "--sortProperties", "-hcv_nabs_frequency",
 			              "--whereClause", noteWhereClause, 
-			              "variation.hcv_nabs_amino_acid", "hcv_nabs_frequency", "hcv_nabs_number"], {convertTableToObjects:true});
+			              "variation.hcv_nabs_amino_acid", "hcv_nabs_frequency", "hcv_nabs_number"]));
 			_.each(notes, function(note) {
 				output.append("\t");
 				output.append(note["variation.hcv_nabs_amino_acid"]);
@@ -45,7 +45,7 @@ function report1() {
 		output.append("\n\n");
 		
 	});
-	glue.command(["file-util", "save-string", output.toString(), "tabular/report1.txt"]);
+	glue.command(["file-util", "save-string", output.toString(), "tabular/bindingResiduesReport.txt"]);
 	
 }
 
