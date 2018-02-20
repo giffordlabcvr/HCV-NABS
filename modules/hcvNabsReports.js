@@ -12,14 +12,14 @@ StringBuffer.prototype.toString = function () {
  
 function bindingResiduesReport() {
 
-	var br_locations = tableResultGetColumn(glue.command(["list", "custom-table-row", "br_location"]), "id");
+	var br_locations = glue.getTableColumn(glue.command(["list", "custom-table-row", "br_location"]), "id");
 
 	var output = new StringBuffer();
 	
 	_.each(br_locations, function(br_location_id) {
 		output.append("Binding residue location "+br_location_id+"\n");
 		glue.inMode("custom-table-row/br_location/"+br_location_id, function() {
-			var antibodies = tableResultGetColumn(glue.command("list link-target antibody_br_loc antibody.display_name"), "antibody.display_name");
+			var antibodies = glue.getTableColumn(glue.command("list link-target antibody_br_loc antibody.display_name"), "antibody.display_name");
 			output.append("Neutralizing antibodies: "+antibodies.join(", "));
 		});
 		_.each(clades, function(clade) {
