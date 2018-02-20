@@ -398,6 +398,26 @@ HCV Genotype 6:	A 100.00% (n=587)
 HCV Subtype 6a:	A 100.00% (n=335)
 HCV Genotype 7:	A 100.00% (n=2)
 
+Binding residue location 427
+Neutralizing antibodies: e20
+HCV Genotype 1:	L 99.83% (n=22990)	P 0.08% (n=18)	S 0.04% (n=10)	M 0.02% (n=4)	V 0.01% (n=3)	F 0.01% (n=2)	R 0.01% (n=2)	H 0.00% (n=1)
+HCV Subtype 1a:	L 99.83% (n=13679)	S 0.07% (n=10)	P 0.05% (n=7)	R 0.01% (n=2)	M 0.01% (n=2)	F 0.01% (n=1)	V 0.01% (n=1)
+HCV Subtype 1b:	L 99.82% (n=9267)	P 0.12% (n=11)	V 0.02% (n=2)	M 0.02% (n=2)	F 0.01% (n=1)	H 0.01% (n=1)
+HCV Genotype 2:	L 99.93% (n=1360)	P 0.07% (n=1)
+HCV Subtype 2a:	L 99.67% (n=299)	P 0.33% (n=1)
+HCV Subtype 2b:	L 100.00% (n=463)
+HCV Subtype 2c:	L 100.00% (n=456)
+HCV Genotype 3:	L 99.72% (n=3908)	P 0.18% (n=7)	R 0.08% (n=3)	G 0.03% (n=1)
+HCV Subtype 3a:	L 99.70% (n=3309)	P 0.21% (n=7)	R 0.06% (n=2)	G 0.03% (n=1)
+HCV Subtype 3b:	L 99.75% (n=404)	R 0.25% (n=1)
+HCV Genotype 4:	L 100.00% (n=765)
+HCV Subtype 4a:	L 100.00% (n=162)
+HCV Subtype 4d:	L 100.00% (n=542)
+HCV Genotype 5:	L 100.00% (n=40)
+HCV Genotype 6:	L 100.00% (n=587)
+HCV Subtype 6a:	L 100.00% (n=335)
+HCV Genotype 7:	L 100.00% (n=2)
+
 Binding residue location 428
 Neutralizing antibodies: HC-1, HC84.21, HC84.22
 HCV Genotype 1:	N 99.39% (n=22851)	S 0.45% (n=103)	D 0.07% (n=17)	T 0.03% (n=6)	K 0.02% (n=4)	I 0.01% (n=2)	H 0.01% (n=2)	R 0.01% (n=2)	A 0.00% (n=1)	G 0.00% (n=1)	P 0.00% (n=1)	E 0.00% (n=1)	Y 0.00% (n=1)

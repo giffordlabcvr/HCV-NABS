@@ -4,9 +4,8 @@ function analyseSingleBr(br_location_id) {
 		glue.log("INFO", "BR position "+br_location_id+", clade "+clade);
 		var freqResults;
 		glue.inMode("alignment/"+clade, function() {
-			freqResults = glue.command(["amino-acid", "frequency", "--recursive", "--whereClause", "sequence.source.name = 'ncbi-curated'",
-			                                "--acRefName", "REF_MASTER_NC_004102", "--featureName", "BR"+br_location_id], 
-			                                {convertTableToObjects:true});
+			freqResults = glue.tableToObjects(glue.command(["amino-acid", "frequency", "--recursive", "--whereClause", "sequence.source.name = 'ncbi-curated'",
+			                                "--acRefName", "REF_MASTER_NC_004102", "--featureName", "BR"+br_location_id]));
 		});
 		glue.inMode("reference/REF_MASTER_NC_004102/feature-location/BR"+br_location_id, function() {
 			var brVariationNames = tableResultGetColumn(glue.command(["list", "variation", "--whereClause", "name like 'BR%'"]), "name");

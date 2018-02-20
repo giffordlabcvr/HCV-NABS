@@ -30,8 +30,8 @@ function analyse() {
 				output.append("Motifs for binding location set: "+bindingLocs.replace(/_/g, ","));
 				output.append(" in "+cladeName);
 				output.append(" (antibodies: ["+antibodies.join(", ")+"])\n");
-				var aaStringObjs = glue.command(["amino-acid", "strings", "-c", "-w", "sequence.source.name = 'ncbi-curated'", 
-				                                 "-x", "-a", acsModule, "-f", "precursor_polyprotein", "-s"], {convertTableToObjects:true});
+				var aaStringObjs = glue.tableToObjects(glue.command(["amino-acid", "strings", "-c", "-w", "sequence.source.name = 'ncbi-curated'", 
+				                                 "-x", "-a", acsModule, "-f", "precursor_polyprotein", "-s"]));
 				_.each(aaStringObjs, function(aaStringObj) {
 					output.append("\n"+aaStringObj.aminoAcidString+" ");
 					output.append(toFixed(aaStringObj.pctMembers,2)+"% (n="+aaStringObj.numMembers+")");
