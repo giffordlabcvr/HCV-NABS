@@ -2,7 +2,7 @@
   <scriptFileName>hcvNabsClades.js</scriptFileName>
   <scriptFileName>hcvNabsCharacterisePublicData.js</scriptFileName>
   <function>
-    <name>featureCoverageByRegionAndClade</name>
+    <name>featureCoverageByCountryAndClade</name>
     <parameter>
     	<name>featureName</name>
     </parameter>

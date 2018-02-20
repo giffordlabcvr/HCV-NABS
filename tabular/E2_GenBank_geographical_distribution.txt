@@ -1,18 +1,252 @@
-clade	Australia and New Zealand	Central Asia	Eastern Asia	Eastern Europe	Latin America and the Caribbean	Melanesia	Micronesia	Northern Africa	Northern America	Northern Europe	Polynesia	Southern Asia	Southern Europe	South-eastern Asia	Sub-Saharan Africa	Western Asia	Western Europe	No country specified	Total
-HCV Genotype 1	28	0	150	8	265	0	0	0	5614	658	0	9	1	28	5	2	275	568	7611
-HCV Subtype 1a	24	0	1	0	265	0	0	0	4856	275	0	7	0	0	0	0	128	252	5808
-HCV Subtype 1b	4	0	148	8	0	0	0	0	742	380	0	0	0	28	0	1	147	314	1772
-HCV Genotype 2	6	0	101	0	2	0	0	0	213	18	0	0	2	0	0	0	25	98	465
-HCV Subtype 2a	0	0	18	0	0	0	0	0	4	2	0	0	0	0	0	0	6	40	70
-HCV Subtype 2b	5	0	81	0	0	0	0	0	193	4	0	0	0	0	0	0	7	46	336
-HCV Subtype 2c	1	0	0	0	0	0	0	0	1	11	0	0	0	0	0	0	2	7	22
-HCV Genotype 3	35	0	305	0	0	0	0	0	655	309	0	95	354	0	1	0	84	611	2449
-HCV Subtype 3a	35	0	161	0	0	0	0	0	646	306	0	92	354	0	0	0	84	593	2271
-HCV Subtype 3b	0	0	144	0	0	0	0	0	2	0	0	0	0	0	0	0	0	14	160
-HCV Genotype 4	0	0	2	0	0	0	0	51	98	19	0	0	3	0	0	2	15	15	205
-HCV Subtype 4a	0	0	1	0	0	0	0	46	72	0	0	0	0	0	0	0	6	7	132
-HCV Subtype 4d	0	0	1	0	0	0	0	0	3	1	0	0	0	0	0	0	6	2	13
-HCV Genotype 5	0	0	1	0	0	0	0	0	1	0	0	1	0	0	23	0	4	7	37
-HCV Genotype 6	2	0	82	0	0	0	0	0	37	0	0	0	0	81	0	0	0	21	223
-HCV Subtype 6a	2	0	53	0	0	0	0	0	12	0	0	0	0	14	0	0	0	21	102
-HCV Genotype 7	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	2
+id	display_name	HCV Genotype 1	HCV Subtype 1a	HCV Subtype 1b	HCV Genotype 2	HCV Subtype 2a	HCV Subtype 2b	HCV Subtype 2c	HCV Genotype 3	HCV Subtype 3a	HCV Subtype 3b	HCV Genotype 4	HCV Subtype 4a	HCV Subtype 4d	HCV Genotype 5	HCV Genotype 6	HCV Subtype 6a	HCV Genotype 7
+ABW	Aruba	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+AFG	Afghanistan	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+AGO	Angola	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+AIA	Anguilla	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ALA	Åland Islands	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ALB	Albania	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+AND	Andorra	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ARE	United Arab Emirates	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ARG	Argentina	265	265	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ARM	Armenia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASM	American Samoa	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ATA	Antarctica	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ATF	French Southern Territories	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ATG	Antigua and Barbuda	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+AUS	Australia	28	24	4	5	0	5	0	35	35	0	0	0	0	0	2	2	0
+AUT	Austria	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+AZE	Azerbaijan	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+BDI	Burundi	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+BEL	Belgium	13	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+BEN	Benin	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+BES	Bonaire, Sint Eustatius and Saba	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+BFA	Burkina Faso	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+BGD	Bangladesh	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+BGR	Bulgaria	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+BHR	Bahrain	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+BHS	Bahamas	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+BIH	Bosnia and Herzegovina	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+BLM	Saint-Barthélemy	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+BLR	Belarus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+BLZ	Belize	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+BMU	Bermuda	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+BOL	Bolivia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+BRA	Brazil	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+BRB	Barbados	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+BRN	Brunei Darussalam	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+BTN	Bhutan	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+BVT	Bouvet Island	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+BWA	Botswana	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+CAF	Central African Republic	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+CAN	Canada	19	3	0	14	0	0	0	22	14	2	25	1	1	0	29	10	2
+CCK	Cocos (Keeling) Islands	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+CHE	Switzerland	88	48	40	0	0	0	0	1	1	0	0	0	0	0	0	0	0
+CHL	Chile	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+CHN	China	131	1	129	18	15	1	0	305	161	144	1	0	1	1	67	38	0
+CIV	Côte d'Ivoire	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+CMR	Cameroon	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+COD	Democratic Republic of the Congo	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+COG	Congo (Brazzaville)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+COK	Cook Islands	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+COL	Colombia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+COM	Comoros	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+CPV	Cape Verde	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+CRI	Costa Rica	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+CUB	Cuba	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+CUW	Curaçao	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+CXR	Christmas Island	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+CYM	Cayman Islands	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+CYP	Cyprus	1	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0
+CZE	Czechia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+DEU	Germany	35	27	8	10	5	5	0	0	0	0	0	0	0	0	0	0	0
+DJI	Djibouti	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+DMA	Dominica	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+DNK	Denmark	0	0	0	3	2	1	0	0	0	0	0	0	0	0	0	0	0
+DOM	Dominican Republic	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+DZA	Algeria	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ECU	Ecuador	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+EGY	Egypt	0	0	0	0	0	0	0	0	0	0	51	46	0	0	0	0	0
+ERI	Eritrea	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ESH	Western Sahara	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ESP	Spain	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0
+EST	Estonia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ETH	Ethiopia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+FIN	Finland	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+FJI	Fiji	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+FLK	Falkland Islands	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+FRA	France	131	47	84	14	1	1	2	81	81	0	3	1	0	0	0	0	0
+FRO	Faroe Islands	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+FSM	Micronesia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GAB	Gabon	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GBR	United Kingdom	399	275	121	15	0	3	11	308	305	0	19	0	1	0	0	0	0
+GEO	Georgia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GGY	Guernsey	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GHA	Ghana	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GIB	Gibraltar	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GIN	Guinea	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GLP	Guadeloupe	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GMB	Gambia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GNB	Guinea-Bissau	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GNQ	Equatorial Guinea	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GRC	Greece	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GRD	Grenada	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GRL	Greenland	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GTM	Guatemala	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GUF	French Guiana	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GUM	Guam	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GUY	Guyana	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+HKG	Hong Kong	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	15	0
+HMD	Heard Island and Mcdonald Islands	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+HND	Honduras	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+HRV	Croatia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+HTI	Haiti	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+HUN	Hungary	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+IDN	Indonesia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+IMN	Isle of Man	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+IND	India	2	0	0	0	0	0	0	17	16	0	0	0	0	1	0	0	0
+IOT	British Indian Ocean Territory	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+IRL	Ireland	259	0	259	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+IRN	Iran	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+IRQ	Iraq	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ISL	Iceland	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ISR	Israel	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ITA	Italy	0	0	0	0	0	0	0	354	354	0	0	0	0	0	0	0	0
+JAM	Jamaica	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+JEY	Jersey	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+JOR	Jordan	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+JPN	Japan	18	0	18	83	3	80	0	0	0	0	1	1	0	0	0	0	0
+KAZ	Kazakhstan	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+KEN	Kenya	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+KGZ	Kyrgyzstan	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+KHM	Cambodia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+KIR	Kiribati	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+KNA	Saint Kitts and Nevis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+KOR	South Korea	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+KWT	Kuwait	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+LAO	Lao	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0
+LBN	Lebanon	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+LBR	Liberia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+LBY	Libya	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+LCA	Saint Lucia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+LIE	Liechtenstein	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+LKA	Sri Lanka	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+LSO	Lesotho	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+LTU	Lithuania	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+LUX	Luxembourg	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+LVA	Latvia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+MAC	Macao	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+MAF	Saint-Martin (French part)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+MAR	Morocco	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+MCO	Monaco	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+MDA	Moldova	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+MDG	Madagascar	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+MDV	Maldives	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+MEX	Mexico	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+MHL	Marshall Islands	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+MKD	Republic of Macedonia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+MLI	Mali	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+MLT	Malta	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+MMR	Myanmar	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+MNE	Montenegro	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+MNG	Mongolia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+MNP	Northern Mariana Islands	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+MOZ	Mozambique	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+MRT	Mauritania	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+MSR	Montserrat	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+MTQ	Martinique	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+MUS	Mauritius	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+MWI	Malawi	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+MYS	Malaysia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+MYT	Mayotte	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+NAM	Namibia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+NCL	New Caledonia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+NER	Niger	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+NFK	Norfolk Island	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+NGA	Nigeria	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+NIC	Nicaragua	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+NIU	Niue	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+NLD	Netherlands	8	6	2	1	0	1	0	2	2	0	12	5	6	4	0	0	0
+NOR	Norway	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+NPL	Nepal	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0
+NRU	Nauru	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+NZL	New Zealand	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
+OMN	Oman	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PAK	Pakistan	7	7	0	0	0	0	0	76	76	0	0	0	0	0	0	0	0
+PAN	Panama	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PCN	Pitcairn	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PER	Peru	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PHL	Philippines	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PLW	Palau	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PNG	Papua New Guinea	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+POL	Poland	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PRI	Puerto Rico	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PRK	North Korea	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PRT	Portugal	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0
+PRY	Paraguay	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PSE	Palestinian Territory	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PYF	French Polynesia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+QAT	Qatar	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+REU	Réunion	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ROU	Romania	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+RUS	Russia	8	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+RWA	Rwanda	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+SAU	Saudi Arabia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+SDN	Sudan	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+SEN	Senegal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+SGP	Singapore	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+SGS	South Georgia and the South Sandwich Islands	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+SHN	Saint Helena	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+SJM	Svalbard and Jan Mayen Islands	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+SLB	Solomon Islands	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+SLE	Sierra Leone	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+SLV	El Salvador	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+SMR	San Marino	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+SOM	Somalia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+SPM	Saint Pierre and Miquelon	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+SRB	Serbia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+SSD	South Sudan	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+STP	Sao Tome and Principe	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+SUR	Suriname	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+SVK	Slovakia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+SVN	Slovenia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+SWE	Sweden	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0
+SWZ	Swaziland	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+SXM	Sint Maarten (Dutch part)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+SYC	Seychelles	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+SYR	Syria	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+TCA	Turks and Caicos Islands	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+TCD	Chad	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+TGO	Togo	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+THA	Thailand	28	0	28	0	0	0	0	0	0	0	0	0	0	0	19	0	0
+TJK	Tajikistan	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+TKL	Tokelau	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+TKM	Turkmenistan	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+TLS	Timor-Leste	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+TON	Tonga	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+TTO	Trinidad and Tobago	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+TUN	Tunisia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+TUR	Turkey	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+TUV	Tuvalu	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+TWN	Taiwan	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+TZA	Tanzania	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+UGA	Uganda	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+UKR	Ukraine	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+UMI	United States Minor Outlying Islands	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+URY	Uruguay	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+USA	United States	5595	4853	742	199	4	193	1	633	632	0	73	71	2	1	8	2	0
+UZB	Uzbekistan	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+VAT	Holy See (Vatican City State)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+VCT	Saint Vincent and Grenadines	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+VEN	Venezuela	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0
+VGB	British Virgin Islands	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+VIR	Virgin Islands, US	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+VNM	Vietnam	0	0	0	0	0	0	0	0	0	0	0	0	0	0	49	14	0
+VUT	Vanuatu	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+WLF	Wallis and Futuna Islands	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+WSM	Samoa	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+XKX	Kosovo	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+YEM	Yemen	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ZAF	South Africa	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	0	0
+ZMB	Zambia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ZWE	Zimbabwe	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+no_country_specified	No country specified	568	252	314	98	40	46	7	611	593	14	15	7	2	7	21	21	0
