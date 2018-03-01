@@ -6,7 +6,7 @@ HCV-NABS (**H**epatitis **C** **V**irus -- **N**eutralising **A**nti**B**odie**S
 
 HCV-NABS is an open source analysis resource which accompanies the article *Predicting the Effectiveness of Hepatitis C Virus Neutralizing Antibodies by Analysis of Public Sequence Data*, Cowton et al. 2018, Manuscript submitted for publication.
 
-HCV-NABS is based on GLUE, an open source, data-centric bioinformatics environment specialised for the analysis of virus sequence data. HCV-GLUE is the GLUE project for analysing HCV sequence data generally, and HCV-NABS is an extension to HCV-GLUE.
+HCV-NABS is based on [GLUE](tools.glue.cvr.ac.uk), an open source, data-centric bioinformatics environment specialised for the analysis of virus sequence data. [HCV-GLUE](hcv.glue.cvr.ac.uk) is the GLUE project for analysing HCV sequence data generally, and HCV-NABS is an extension to HCV-GLUE.
 
 ## Installation
 
