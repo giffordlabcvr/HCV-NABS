@@ -19,8 +19,10 @@ You can install HCV-NABS on computers running Windows, MacOSX or Linux. Note: if
 2. Once GLUE is installed and working, you should download Offline HCV-GLUE and load it in to GLUE. Follow the [Offline HCV-GLUE installation instructions](http://hcv.glue.cvr.ac.uk/#/aboutGlueProject). You should select the **ncbi_hcv_glue.tar.gz** project build.
 3. Clone the HCV-NABS repository into your `gluetools/projects` directory.
 4. Within the `gluetools/projects/HCV-NABS`, start GLUE and build the HCV-NABS extension by issuing the following command in GLUE:
-    Mode path: /
-    GLUE> run file hcvNabsExtension.glue
+```
+Mode path: /
+GLUE> run file hcvNabsExtension.glue
+```
 5. This should run to completion and produce the `OK` result.
 
 ## Usage
