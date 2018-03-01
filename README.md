@@ -4,7 +4,7 @@
 
 HCV-NABS (**H**epatitis **C** **V**irus -- **N**eutralising **A**nti**B**odie**S**) is a linked dataset and set of analysis scripts for analysing the variation of HCV virus sequences with respect to the known binding locations of neutralising antibodies.
 
-HCV-NABS is an open source analysis resource which accompanies the article "Predicting the Effectiveness of Hepatitis C Virus Neutralizing Antibodies by Analysis of Public Sequence Data", Cowton et al. 2018, Manuscript submitted for publication.
+HCV-NABS is an open source analysis resource which accompanies the article *Predicting the Effectiveness of Hepatitis C Virus Neutralizing Antibodies by Analysis of Public Sequence Data*, Cowton et al. 2018, Manuscript submitted for publication.
 
 HCV-NABS is based on GLUE, an open source, data-centric bioinformatics environment specialised for the analysis of virus sequence data. HCV-GLUE is the GLUE project for analysing HCV sequence data generally, and HCV-NABS is an extension to HCV-GLUE.
 
@@ -54,7 +54,7 @@ The project could be extended, for example to look at more antibodies as their b
 
 ## Credits
 
-The code was written by Josh Singer based on ideas by Vanessa Cowton. Please cite our research article: Predicting the Effectiveness of Hepatitis C Virus Neutralizing Antibodies by Analysis of Public Sequence Data", Cowton et al. 2018, Manuscript submitted for publication.
+The code was written by Josh Singer based ona specification by Vanessa Cowton. Please cite our research article: *Predicting the Effectiveness of Hepatitis C Virus Neutralizing Antibodies by Analysis of Public Sequence Data*, Cowton et al. 2018, Manuscript submitted for publication.
 
 ## License
 
