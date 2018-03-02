@@ -54,7 +54,7 @@ The project could be extended, for example to look at more antibodies as their b
 
 ## Credits
 
-The code was written by Josh Singer based ona specification by Vanessa Cowton. Please cite our research article: *Predicting the Effectiveness of Hepatitis C Virus Neutralizing Antibodies by Analysis of Public Sequence Data*, Cowton et al. 2018, Manuscript submitted for publication.
+The code was written by Josh Singer based on a specification by Vanessa Cowton. Please cite our research article: *Predicting the Effectiveness of Hepatitis C Virus Neutralizing Antibodies by Analysis of Public Sequence Data*, Cowton et al. 2018, Manuscript submitted for publication.
 
 ## License
 
