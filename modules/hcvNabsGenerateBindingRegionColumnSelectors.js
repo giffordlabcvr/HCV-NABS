@@ -21,19 +21,15 @@ function generateSelectors() {
 		var br_loc_nums = _.map(br_loc_ids, function(id) { return parseInt(id); });
 		br_loc_nums = br_loc_nums.sort(numericComp);
 
-		var moduleName = "hcvNabs_acs_"+br_loc_nums.join('_');
+		var moduleName = "hcvNabs_acs_"+antibodyID;
 		
-		var existingModules = tableResultGetColumn(glue.command(["list", "module", "-w", "name = '"+moduleName+"'"]), "name");
-		
-		if(existingModules.length == 0) {
-			glue.command(["create", "module", "--moduleType", "alignmentColumnsSelector", moduleName]);
-			glue.inMode("module/"+moduleName, function(){
-				glue.command(["set", "property", "relRefName", "REF_MASTER_NC_004102"]);
-				_.each(br_loc_nums, function(br_loc_num) {
-					glue.command(["add", "region-selector", "-f", "precursor_polyprotein", "-a", "-l", br_loc_num, br_loc_num]);
-				});
+		glue.command(["create", "module", "--moduleType", "alignmentColumnsSelector", moduleName]);
+		glue.inMode("module/"+moduleName, function(){
+			glue.command(["set", "property", "relRefName", "REF_MASTER_NC_004102"]);
+			_.each(br_loc_nums, function(br_loc_num) {
+				glue.command(["add", "region-selector", "-f", "precursor_polyprotein", "-a", "-l", br_loc_num, br_loc_num]);
 			});
-		}
+		});
 
 		glue.inMode("custom-table-row/antibody/"+antibodyID, function(){
 			glue.command(["set", "field", "col_selector_name", moduleName]);

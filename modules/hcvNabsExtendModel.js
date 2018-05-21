@@ -12,7 +12,7 @@ function extendModel() {
 		glue.inMode("custom-table-row/antibody/"+antibody_id, function() {
 			glue.command(["set", "field", "display_name", antibody_name]);
 		});
-		for(var i = 1; i <= 9; i++) {
+		for(var i = 1; i <= 25; i++) {
 			var br = abEpRow["BR"+i];
 			if(br != null) {
 				var pos = br.substring(1, br.length);
