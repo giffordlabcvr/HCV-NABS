@@ -37,6 +37,10 @@ function analyse() {
 
 	var br_locations = tableResultGetColumn(glue.command(["list", "custom-table-row", "br_location"]), "id");
 	
+    // AR3 group new locations
+	//var br_locations = ["427", "429", "430", "432", "440", "459", "485", "499", "503", "515", "517", "518", "520", "536", "558"];
+
+	
 	_.each(br_locations, function(br_location_id) {
 		analyseSingleBr(br_location_id);
 	});
