@@ -48,7 +48,7 @@ function analyse() {
 				output.append(" in "+cladeName);
 				output.append(" (antibody: "+antibodyID+")\n");
 				var aaStringObjs = glue.tableToObjects(glue.command(["amino-acid", "strings", "-c", "-w", "sequence.source.name = 'ncbi-curated'", 
-				                                 "-x", "-a", acsModule, "-f", "precursor_polyprotein", "-s"]));
+				                                 "-x", "-a", acsModule, "-s"]));
 				_.each(aaStringObjs, function(aaStringObj) {
 					output.append("\n"+aaStringObj.aminoAcidString+" ");
 					output.append(toFixed(aaStringObj.pctMembers,2)+"% (n="+aaStringObj.numMembers+")");
