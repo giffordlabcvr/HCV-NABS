@@ -24,8 +24,8 @@ function analyse() {
 
 	var output = new StringBuffer();
 
-	var acsModules = tableResultGetColumn(glue.command(["list", "module", "-w", "name like 'hcvNabs_acs%'"]), "name");
-	// var acsModules = ["hcvNabs_acs_HC-1"];
+	//var acsModules = tableResultGetColumn(glue.command(["list", "module", "-w", "name like 'hcvNabs_acs%'"]), "name");
+	var acsModules = ["hcvNabs_acs_DAO1", "hcvNabs_acs_DAO1_MINIMAL"];
 	
 	var cladesToAnalyse = clades;
 	// var cladesToAnalyse = ["AL_2", "AL_3b"];
